@@ -14,7 +14,17 @@ body {
 }
 .freedom {
   width: 90%;
-  padding-top: 5rem;
   margin: 0 auto;
+  margin-top: -980px;
   text-align: center;
 }
+.quote {
+    font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+    font-size: 2.5rem; 
+}
+
+.author {
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;
+} 
